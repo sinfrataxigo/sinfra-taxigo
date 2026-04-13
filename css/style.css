@@ -1,0 +1,16 @@
+/* TaxiGo application CSS styling with a black and yellow theme */
+body {
+    background-color: black;
+    color: yellow;
+}
+
+.header {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: yellow;
+}
